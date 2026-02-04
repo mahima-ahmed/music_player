@@ -1,10 +1,10 @@
-# music_player
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🎀 PYTHON MUSIC PLAYER 🎀**
-This project is a simple desktop music player created using Python. It uses the os library to interact with the file system, Tkinter to build the graphical user interface, and Pygame to handle audio playback.
-
-When running the program, the user can select any folder from their system that contains MP3 files. The selected folder is then scanned, and all the
-songs inside it are displayed in the music list. This allows users to play music from any location they want, without needing a fixed folder.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This project is a simple desktop music player created using Python.
+It uses the os library to interact with the file system, Tkinter to build the graphical user interface,
+and Pygame to handle audio playback. When running the program, the user can select any folder from their system that contains MP3 files.
+The selected folder is then scanned, and all the songs inside it are displayed in the music list.
+This allows users to play music from any location they want, without needing a fixed folder.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Features:**
 - Select any music folder from your system.
